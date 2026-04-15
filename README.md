@@ -13,8 +13,7 @@
 # Установка
 
 ## Клонирование репозитория
-git clone https://github.com/sofya-kuchinskaya/CalculusTool.git
-
+git clone https://github.com/severka47/-.git
 cd CalculusTool
 
 ## Создание виртуального окружения
@@ -35,4 +34,4 @@ pip install -r requirements.txt или pip3 install -r requirements.txt
 python calculus_core.py
 
 ## 👩‍💻 Автор:
- Кучинская Софья
+ Какиев Магомед
